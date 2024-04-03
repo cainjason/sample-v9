@@ -12,7 +12,7 @@
   }
   ```
 */
-export default function Example() {
+export default function Form() {
   return (
     <>
       {/*
@@ -40,7 +40,7 @@ export default function Example() {
             <div>
               <label
                 htmlFor="email"
-                className="block text-sm font-medium leading-6 text-gray-900"
+                className=" block text-sm font-medium leading-6 text-gray-900"
               >
                 Email address
               </label>
